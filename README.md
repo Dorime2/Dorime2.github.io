@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<p><img src="https://dictionary.cambridge.org/ru/images/thumb/dog_noun_001_04904.jpg?version=5.0.234" alt="dog" width="100" height="180" align="top"/>
+<p><img src="https://dictionary.cambridge.org/ru/images/thumb/dog_noun_001_04904.jpg?version=5.0.234" alt="dog" width="150" height="230" align="top"/>
 <strong>Привіт!</strong> Я студент групи ПМ-2</p>
 
 <h3>Мої улюбленні країни-учасники з Євробачення: </h3>
