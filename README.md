@@ -33,6 +33,6 @@
   <li> Німеччина</li>
 </ul> 
 
-<a href="#" onClick="scroll(0,0); return false" title="наверх">вверх страницы</a>
+<a href="#" onClick="scroll(0,0); return false" title="наверх">На початок сторінки</a>
 
 <p align="right">Створив Новицький Артем</p>
